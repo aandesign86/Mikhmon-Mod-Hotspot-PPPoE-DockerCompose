@@ -20,4 +20,6 @@ Source code Modifikasi Mikhmon untuk Hotspot dan PPPOE
 
 #traktir Cofee / ke DANA seiklasnya bagi yang mau berbagi
 083120037386
-jika kebingungan chat wa : wa.me/6283120037386
+
+jika kebingungan chat wa : 
+https://wa.me/6283120037386
