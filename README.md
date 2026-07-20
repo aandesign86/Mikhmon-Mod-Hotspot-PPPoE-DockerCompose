@@ -14,6 +14,7 @@ Source code Modifikasi Mikhmon untuk Hotspot dan PPPOE
 - lalu pilih Docker Compose
 - kemudian pastekan source code di bawah ini:
 
+```yaml
 name: mikhmon-hotspot-pppoe
 services:
   mikhmon:
