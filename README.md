@@ -56,8 +56,10 @@ x-casaos:
   title:
     custom: Mikhmon V3.20
     en_us: mikhmon-pppoe
-
-
+```
+- kosongkan bagian "hostname: mikhmon.aandesign86.my.id" menjadi "hostname:"
+  jika kamu menggunakan akses local/tidak menggunakan domain yang kamu taruh di cloudflare untuk akses dari jarak jauh
+  namun jika kamu menggunakan domain dan mengaksesnya dari jauh isi sesuai domain kamu
 - kemudian klik Kirim
 - tunggu prosess instalasi selesai
 - dan mikmon bisa dijalankan
